@@ -16,7 +16,7 @@
 
 ## my statistics:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ph2n1a&theme=blue_green)](https://github.com/ph2n1a/blue_green_dark_theme)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ph2n1a&theme=gotham)](https://github.com/ph2n1a/blue_green_dark_theme)
 
 #
 
