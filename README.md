@@ -1,6 +1,6 @@
 [![Header](https://github.com/ph2n1a/ph2n1a/blob/main/assets/banner.png)](https://t.me/ph2n1a)
 
-## I'm a beginner Python programmer, learning dart and flutter and planning to learn web.
+## I'm a beginner Python programmer, learning dart and flutter and planning to learn web:
 
  -- I'm still learning flutter at a basic level
  #
@@ -14,9 +14,13 @@
  #
  -- to work with dart and flutter I use android studio
 
+## my statistics:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph2n1a)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 
-### use languages ​​and tools:
+## use languages ​​and tools:
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFCB)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=00FFCB)
