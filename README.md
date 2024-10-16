@@ -15,7 +15,6 @@
  -- to work with dart and flutter I use android studio
 
 #
-#
 
 ### use languages ​​and tools:
 
