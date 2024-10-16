@@ -7,4 +7,4 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FFCB)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFCB)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFCB)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=for-the-badge&logo=androidstudio&logoColor=00FFCB)
+![Android Studio](https://img.shields.io/badge/-Android&nbspStudio-000000?style=for-the-badge&logo=androidstudio&logoColor=00FFCB)
