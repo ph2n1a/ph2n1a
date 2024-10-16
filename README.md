@@ -16,7 +16,7 @@
 
 ## my statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph2n1a&theme=blue_green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats/blob/f419987f00e34fe5f506983ceae6ce48b3fe3c90/themes/index.js/api?username=ph2n1a&theme=blue_green)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
