@@ -3,10 +3,15 @@
 ## I'm a beginner Python programmer, learning dart and flutter and planning to learn web.
 
  -- I'm still learning flutter at a basic level
+ #
  -- Already learned dart at an intermediate level
+ #
  -- know python at an intermediate level
+ #
  -- work with git and github using SourseTree and know basic commands in git bash
+ #
  -- use wsl linux ubuntu for work
+ #
  -- to work with dart and flutter I use android studio
 
 ### use languages ​​and tools:
