@@ -1,31 +1,58 @@
-[![Header](https://github.com/ph2n1a/ph2n1a/blob/main/assets/banner.png)](https://t.me/ph2n1a)
+<div align="center">
 
-## I'm a beginner Python programmer, learning dart and flutter and planning to learn web:
+# phanta
+<img height="120" src="https://github.com/ph2n1a/ph2n1a/blob/main/assets/logo.png" alt="logo"/>
 
- -- I'm still learning flutter at a basic level
- #
- -- Already learned dart at an intermediate level
- #
- -- know python at an intermediate level
- #
- -- work with git and github using SourseTree and know basic commands in git bash
- #
- -- use wsl linux ubuntu for work
- #
- -- to work with dart and flutter I use android studio
+### `ph2n1a`
 
-## my statistics:
+*A basic developer trying everything.*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/Telegram-ph2n1a-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ph2n1a)
 
-#
+</div>
 
-## use languages ​​and tools:
+---
 
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFCB)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=00FFCB)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FFCB)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FFCB)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFCB)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFCB)
-![Android Studio](https://img.shields.io/badge/-Android&nbsp;Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=00FFCB)
+I work on Arch Linux and do all sorts of projects that I need, as one famous programmer says:
+
+> Every good work of software starts by scratching a developer's personal itch.
+<cite>— Eric Raymond</cite>
+
+### My projects:
+- **Abyss Frost** — Sends a notification when the internet is available, relevant for mobile internet in Russia
+  
+  ![Flutter](https://img.shields.io/badge/-Flutter-292929?style=for-the-badge&logo=flutter&logoColor=7ea8ab)
+  ![Dart](https://img.shields.io/badge/-Dart-292929?style=for-the-badge&logo=dart&logoColor=7ea8ab)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-292929?style=for-the-badge&logo=kotlin&logoColor=7ea8ab)
+
+- **zapret2-tui** — TUI interface over zapret2 service + strategy availability check via nfqws2
+
+  ![C](https://img.shields.io/badge/-language-292929?style=for-the-badge&logo=c&logoColor=7ea8ab)
+  ![Linux](https://img.shields.io/badge/-Linux-292929?style=for-the-badge&logo=linux&logoColor=7ea8ab)
+  ![Cmake](https://img.shields.io/badge/-Cmake-292929?style=for-the-badge&logo=cmake&logoColor=7ea8ab)
+
+---
+
+### stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,python,figma,git,linux,c,vim" alt="stack" />
+
+</div>
+
+---
+
+### my statistics
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats-one-bice.vercel.app/api?username=ph2n1a&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&icon_color=7DD3C7&text_color=C8C8C8&ring_color=7DD3C7" alt="stats" />
+&nbsp;&nbsp;
+<img height="190" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ph2n1a&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&text_color=C8C8C8&langs_count=6" alt="langs" />
+
+
+
+<img height="255" src="https://github-readme-activity-graph.vercel.app/graph?username=ph2n1a&bg_color=0B0B0B&color=7DD3C7&line=7DD3C7&point=E8E8E8&area=true&hide_border=true&custom_title=activity" alt="activity" width="100%" />
+
+</div>
